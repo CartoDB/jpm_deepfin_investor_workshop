@@ -1,5 +1,10 @@
 # DeepFin Investor Virtual Tutorial: Spatial Data Science with CARTO
 
+9 July 2020
+
+Giulia Carella (giulia@carto.com)
+Miguel Álvarez (malvarez@carto.com)
+
 This repository contains the material for the DeepFin Investor Virtual Tutorial: Spatial Data Science with CARTO. It includes
 
 - a deck with the slides used during the workshop
@@ -16,7 +21,7 @@ To run the notebooks, please follow the instructions below.
   $ cd data-science-book
   ```
   
-3. Install python (follow instructions here: https://docs.anaconda.com/anaconda/install/) and jupyter notebooks (follow instructions here: https://jupyter.readthedocs.io/en/latest/install.html)
+3. Install python (follow instructions here: https://docs.anaconda.com/anaconda/install/) and jupyter (follow instructions here: https://jupyter.readthedocs.io/en/latest/install.html)
 
 3. Open your terminal, go to the **jpm_deepfin_investor_workshop folder** and run 
   ```bash
