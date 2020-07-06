@@ -2,8 +2,7 @@
 
 9 July 2020
 
-Giulia Carella (giulia@carto.com)
-Miguel Álvarez (malvarez@carto.com)
+Giulia Carella (giulia@carto.com) & Miguel Álvarez (malvarez@carto.com)
 
 This repository contains the material for the DeepFin Investor Virtual Tutorial: Spatial Data Science with CARTO. It includes
 
