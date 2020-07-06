@@ -17,7 +17,6 @@ To run the notebooks, please follow the instructions below.
 
   ```bash
   $ git clone git@github.com:CartoDB/jpm_deepfin_investor_workshop.git
-  $ cd data-science-book
   ```
   
 3. Install python (follow instructions here: https://docs.anaconda.com/anaconda/install/) and jupyter (follow instructions here: https://jupyter.readthedocs.io/en/latest/install.html)
