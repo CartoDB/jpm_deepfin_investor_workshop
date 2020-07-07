@@ -40,7 +40,7 @@ To run the notebooks, please follow the instructions below.
 
 3. Click on the icon on the top right corner, and then on API Keys to visualize your Master Key. To run the demos during the practical session you will only need your username and API Key. For more details, please check this video
 
-![](access.gif)
+![](carto_access.gif)
 
 4. Once you have your credentials, you can then start using CARTO:
 
