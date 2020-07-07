@@ -32,7 +32,7 @@ To run the notebooks, please follow the instructions below.
 
 	- **demo2-optimization/logistics_optimization.ipynb**: where should a parcel delivery company locate their distribution and fulfilment centers? What areas should they service? In this demo we will go through a supply chain network optimization use case, from analysing past data to identify spatio-temporal patterns to building an optimization model to analyze and quantify the impact of changes in the current network.
 
-## How to access your CARTO account
+### How to access your CARTO account
 
 1. Go to https://carto.com/login
 
