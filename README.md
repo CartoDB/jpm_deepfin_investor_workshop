@@ -28,9 +28,9 @@ To run the notebooks, please follow the instructions below.
 
 4. This will open a new window in your browser, where you will see two jupyter notebooks for the practical session
 
-	- **JPMorgan_demo1.ipynb** (**Site selection**): where should Starbucks open new coffee shops in Long Island, NY? In this demo we will go through a typical site selection use case, from modelling the revenues of the existing stores as a function of socioeconomic covariates, to predicting the potential revenues in new locations.  
+	- **demo1-site_planning/site_planning.ipynb** (**Site selection**): where should Starbucks open new coffee shops in Long Island, NY? In this demo we will go through a typical site selection use case, from modelling the revenues of the existing stores as a function of socioeconomic covariates, to predicting the potential revenues in new locations.  
 
-	- **JPMorgan_demo2.ipynb** (**Logistic spatial optimization**): where should a parcel delivery company locate their distribution and fulfilment centers? What areas should they service? In this demo we will go through a supply chain network optimization use case, from analysing past data to identify spatio-temporal patterns to building an optimization model to analyze and quantify the impact of changes in the current network.
+	- **demo2-optimization/logistics_optimization.ipynb** (**Logistic spatial optimization**): where should a parcel delivery company locate their distribution and fulfilment centers? What areas should they service? In this demo we will go through a supply chain network optimization use case, from analysing past data to identify spatio-temporal patterns to building an optimization model to analyze and quantify the impact of changes in the current network.
 
 ## How to access your CARTO account
 
