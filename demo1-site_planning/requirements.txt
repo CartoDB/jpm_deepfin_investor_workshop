@@ -6,7 +6,6 @@ seaborn
 missingno
 pandas
 numpy
-random
 scipy
 sklearn
 statsmodels
