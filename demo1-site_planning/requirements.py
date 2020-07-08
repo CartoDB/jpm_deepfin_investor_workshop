@@ -6,8 +6,6 @@ from cartoframes.viz import *
 from cartoframes.data.services import Geocoding
 from cartoframes.data.observatory import Dataset, Catalog, Geography, Variable, Enrichment
 
-from google.cloud import bigquery
-
 import pandas as pd
 import geopandas as gpd
 from geopandas import GeoDataFrame
@@ -30,6 +28,8 @@ from skgstat import Variogram
 import pystan
 import pickle
 import gzip
+
+from google.cloud import bigquery
 
 import warnings
 warnings.filterwarnings('ignore')
