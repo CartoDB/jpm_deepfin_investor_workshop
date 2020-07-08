@@ -33,3 +33,6 @@ import gzip
 
 import warnings
 warnings.filterwarnings('ignore')
+
+sns.set_style("white")
+np.random.seed(101)
