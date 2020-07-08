@@ -11,4 +11,3 @@ sklearn
 statsmodels
 rtree
 pystan
-gzip
