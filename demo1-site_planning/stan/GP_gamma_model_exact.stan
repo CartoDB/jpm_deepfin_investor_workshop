@@ -58,12 +58,11 @@ transformed parameters {
     vector[N] mu;                  //the expected values (linear predictor)
     vector[N] beta;                //rate parameter for the gamma distribution   
 
-    mu = exp(X*betas + L*eta);      //using the log link 
+    mu = exp(X*betas + L*eta);     //using the log link 
     beta = rep_vector(inverse_phi, N) ./ mu;
 }
 model {  
-    betas[1] ~ cauchy(0,10);       //prior for the intercept following Gelman 2008
-    betas[2:] ~ cauchy(0,2.5);     //prior for the slopes following Gelman 2008 
+    betas ~ cauchy(0,2.5);     		//prior for the slopes following Gelman 2008 
     inverse_phi ~ exponential(1);  // prior on inverse dispersion parameter    
     eta ~ std_normal();  
     
